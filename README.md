@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Voidarkin also known as Josh
-- 👀 I’m interested in game development, programing, and games
-- 🌱 I’m currently learning game development
+- 👋 Hi, I’m @Voidarkin also known as Void, Red, or Josh.
+- 👀 I’m interested in game development, programing, games, TTRPGs, Webcomics, Manga, etc..
+- 🌱 I graduated with honors from Game Development, specializing in programming.
 - 💞️ I’m looking to collaborate on projects. I have skills in many aspects of game development from programming to modelling.
-- 📫 How to reach me Joshua_Griffis@outlook.com
+- 📫 You can reach me at Joshua_Griffis@outlook.com
 
 <!---
 Voidarkin/Voidarkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
